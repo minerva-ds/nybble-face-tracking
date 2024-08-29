@@ -67,9 +67,6 @@ This project aimed to solve this problem in a way that isn't intensive on the ba
    pip install opencv-python pyserial requests
    ```
 
-3. **Download Face Detection Model**:  
-   Download the model and prototxt file from the [Face Detection Comparison GitHub](https://github.com/spmallick/learnopencv/tree/master/FaceDetectionComparison/models) and place them in the `models` directory.
-
 ### Usage
 
 1. **Connect to the ESP32-CAM**: Ensure you have setup the ESP32-CAM to stream from its own WiFi and make sure your laptop is connected to it.
