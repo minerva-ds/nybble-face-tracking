@@ -52,7 +52,8 @@ This project aimed to solve this problem in a way that isn't intensive on the ba
 - **OpenCV**: Install OpenCV for Python (`cv2` module) to handle video capture and face detection.
 - **PySerial**: Required for serial communication with the Nybble robot over Bluetooth.
 - **ESP32-CAM**: A camera module that streams video over WiFi.
-- **Nybble Robot**: A small, programmable robot that can be controlled via Bluetooth.  You can obtain it and construct it from (here)[https://www.petoi.com/products/petoi-nybble-robot-cat]
+- **Nybble Robot**: A small, programmable robot that can be controlled via Bluetooth.  You can obtain it and construct it from [here](https://www.petoi.com/products/petoi-nybble-robot-cat).
+
 
 ### Installation
 
